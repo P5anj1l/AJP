@@ -1,0 +1,38 @@
+body {
+  background: url(https://visme.co/blog/wp-content/uploads/2017/07/50-Beautiful-and-Minimalist-Presentation-Backgrounds-08.jpg);
+  text-align: center;
+}
+
+}
+
+h1 {
+	color: #3377ff;
+}
+
+img {
+	border: 8px solid rgba(255, 255, 0, 60%);
+	cursor: pointer;
+}
+
+footer {
+	clear: both;
+	color: blue;
+}
+
+p {
+	color: black;
+	font-size: 25px;
+	background-color: rgba(255, 0, 0, 10%);
+	border: 5px solid black;
+	line-height: 30px;
+	font-weight: 500;
+    font-family: 'Dancing Script', cursive;
+}
+
+
+
+
+
+
+
+
